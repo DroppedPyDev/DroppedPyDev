@@ -42,7 +42,7 @@
 
 <h4 align="center"> Spotify 🎧</h4>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31fplfebfwlhdr2lav5zrbf4j2me?si=19PHD831R2yh9FBgcWAgFA&utm_source=copy-link&dl_branch=1)
 
 ---
 
