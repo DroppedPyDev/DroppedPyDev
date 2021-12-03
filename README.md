@@ -4,7 +4,7 @@
   <samp>
     I'm Abhijith Sudhakaran :wave:
     <br><br>
-    18 Y/O Boy From God's Own Country 🌴🌿🌊
+    19 Y/O Boy From God's Own Country 🌴🌿🌊
     <br><br>
     I believe that I can do Anything! What's your?
     <br><br>
@@ -33,12 +33,11 @@
    <samp>
      My Hobbie - Football⚽, Cricket 🏏, Esports🎮
    <br><br>
-     I Love Here `Music🎧` more than Codeing*😝
+     I Love to Hear `Music🎧` more than Codeing*😝
    <br><br>
      Love to Travel whole over India🇮🇳
 </samp>
 </p>
-<p align="center">Thanks to all for Visting My profile💝</p>
 
 <h4 align="center"> Spotify 🎧</h4>
 
@@ -50,9 +49,9 @@
 
 <h4 align="center">Github stats :bar_chart:</h4>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Profile Visitor's :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Abhijith-Sudhakaran}/count.svg" alt="Abhijith-Sudhakaran :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Abhijith-Sudhakaran}/count.svg" alt="Abhijith-Sudhakaran :: Profile Visitor's" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
