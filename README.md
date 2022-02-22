@@ -33,15 +33,17 @@
    <samp>
      My Hobbie - Football⚽, Cricket 🏏, Esports🎮
    <br><br>
-     I Love to Hear `Music🎧` more than Codeing*😝
+     I Love to Hear `Music🎧` more than Coding*😝
    <br><br>
      Love to Travel whole over India🇮🇳
 </samp>
 </p>
+---
+---
 
 <h4 align="center"> Spotify 🎧</h4>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31fplfebfwlhdr2lav5zrbf4j2me?si=19PHD831R2yh9FBgcWAgFA&utm_source=copy-link&dl_branch=1)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
 
 ---
 
@@ -61,7 +63,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhijith-Sudhakaran&show_icons=true&theme=synthwave" alt="Abhijith-Sudhakaran :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="350" width="350"></p>
 
 
 ---
