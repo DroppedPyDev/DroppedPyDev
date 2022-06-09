@@ -12,7 +12,11 @@
   </samp>
 </p>
 
-<h1 align="center">Social Connect</h1>
+<h1> Notification's 🔔 </h1>
+ <b> Started Learning Microcontroller & Microprocessor ⌨️ </b>
+<b> Started Learning Flutter 😵‍💫. Powered by Google ❤️</b>
+
+<h2 align="center">Social Connect</h2>
 
 <p align="center">
   
@@ -27,7 +31,7 @@
 </a>
 </p>
 
-<h2 align="center">More About Me 😝</h2>
+<h3 align="center">More About Me 😝</h3>
 
 <p align="center">
    <samp>
@@ -67,4 +71,6 @@
 
 
 ---
+<p><br> Readme Updated on 10:27 PM on Thursday June 9 </br></p>
+
 🌼 [Abhijith-Sudhakaran](https://github.com/Abhijith-Sudhakaran)
