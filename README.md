@@ -4,11 +4,11 @@
   <samp>
     I'm Abhijith Sudhakaran :wave:
     <br><br>
-    19 Y/O Boy From God's Own Country 🌴🌿🌊
+    20 Y/O Boy From God's Own Country 🌴🌿🌊
     <br><br>
     I believe that I can do Anything! What's your?
     <br><br>
-    Now I am Learning Bsc Electronics & Code from my Devoloper Friends :v:
+    Now I am Learning Bsc Electronics & Devoloping Something in Python  :v:
   </samp>
 </p>
 
@@ -71,6 +71,6 @@
 
 
 ---
-<p><br> Readme Updated on 10:27 PM on Thursday June 9 </br></p>
+<p><br> Readme Updated 5:59 PM on Friday July 21 </br></p>
 
 🌼 [Abhijith-Sudhakaran](https://github.com/Abhijith-Sudhakaran)
