@@ -4,30 +4,31 @@
   <samp>
     I'm Abhijith Sudhakaran :wave:
     <br><br>
-    20 Y/O Boy From God's Own Country 🌴🌿🌊
+    21 Y/O Boy From God's Own Country 🌴🌿🌊
     <br><br>
     I believe that I can do Anything! What's your?
     <br><br>
-    Now I am Learning Bsc Electronics & Devoloping Something in Python  :v:
+    Have a Degree in B.Sc Electronics( Mahathma Gandhi University Kottayam ).
+    Flutter Dev :v:
   </samp>
 </p>
 
 <h1> Notification's 🔔 </h1>
- <b> Started Learning Microcontroller & Microprocessor ⌨️ </b>
-<b> Started Learning Flutter 😵‍💫. Powered by Google ❤️</b>
+ <b> No New Notifications </b>
 
 <h2 align="center">Social Connect</h2>
 
-<p align="center">
+<p align="left">
   
   <a href="https://t.me/Telecat_X">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Reach Me through Telegram" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="30">
 
   <a href="https://www.instagram.com/hypercat_ext">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Reach Me through Instagram" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   
   <a href="https://www.facebook.com/Abhijith Sudhakaran">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="My Facebook Account" height="30" width="30">
+ 
 </a>
 </p>
 
@@ -35,11 +36,11 @@
 
 <p align="center">
    <samp>
-     My Hobbie - Football⚽, Cricket 🏏, Esports🎮
+     Devoloping something Fresh and New :v:
    <br><br>
      I Love to Hear `Music🎧` more than Coding*😝
    <br><br>
-     Love to Travel whole over India🇮🇳
+     Love to Travel whole over The India
 </samp>
 </p>
 ---
@@ -71,6 +72,6 @@
 
 
 ---
-<p><br> Readme Updated 5:59 PM on Friday July 21 </br></p>
+<p><br> Readme Updated 11:10 AM on Wednesday October 25 2023 </br></p>
 
 🌼 [Abhijith-Sudhakaran](https://github.com/Abhijith-Sudhakaran)
