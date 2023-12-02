@@ -18,19 +18,11 @@
 
 <h2 align="center">Social Connect</h2>
 
-<p align="left">
-  
-  <a href="https://t.me/Telecat_X">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="30">
-
-  <a href="https://www.instagram.com/hypercat_ext">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  
-  <a href="https://www.facebook.com/Abhijith Sudhakaran">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="My Facebook Account" height="30" width="30">
- 
-</a>
-</p>
+<a href="https://t.me/Telecat_X"><img src="https://img.shields.io/badge/Contact Via Telegram‎%20-black.svg?style=for-the-badge&logo=Telegram"></a><br>
+<a href="http://www.instagram.com/hypercat_ext"><img src="https://img.shields.io/badge/Follow on Instagram%20-black.svg?style=for-the-badge&logo=Instagram"></a><br>
+<a href="http://reddit.com/Hypercat"><img src="https://img.shields.io/badge/Follow Me on Reddit%20-black.svg?style=for-the-badge&logo=Reddit"></a><br>
+<a href="https://www.linkedin.com/in/abhijithsudhakaran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/Hire Me on LinkedIn%20-black.svg?style=for-the-badge&logo=Linkedin"></a>
+<a href="https://t.me/readmeab"><img src="https://img.shields.io/badge/Join Our Community%20-black.svg?style=for-the-badge&logo=Telegram"></a>
 
 <h3 align="center">More About Me 😝</h3>
 
