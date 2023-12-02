@@ -66,12 +66,9 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhijith-Sudhakaran&show_icons=true&theme=synthwave" alt="Abhijith-Sudhakaran :: Profile Stats" /></p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-Sudhakaran&show_icons=true&theme=dark)
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="350" width="350"></p>
+<p>
+  Made with ♥️ by an 🇮🇳
+</p>
 
-
----
-<p><br> Readme Updated 11:10 AM on Wednesday October 25 2023 </br></p>
-
-🌼 [Abhijith-Sudhakaran](https://github.com/Abhijith-Sudhakaran)
