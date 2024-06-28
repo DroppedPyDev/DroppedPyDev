@@ -9,12 +9,12 @@
     I believe that I can do Anything! What's your?
     <br><br>
     Have a Degree in B.Sc Electronics( Mahathma Gandhi University Kottayam ).
-    Flutter Dev :v:
+    Full Stack Dev :v:
   </samp>
 </p>
 
 <h1> Notification's 🔔 </h1>
- <b> No New Notifications </b>
+ <b> • Started Learning Python Full Stack in SMEC Labs Kaloor, Kochi, Kerala 🧃 | 24/06/2024 📆 </b>
 
 <h2 align="center">Social Connect</h2>
 
