@@ -60,7 +60,9 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-Sudhakaran&show_icons=true&theme=dark)
 
-<p>
-  Made with ♥️ by an 🇮🇳
-</p>
+<p><b>
+  ⚠️ The Profile Picture used by me is from Pexel.com. it's a non copyrighted picture. if anybody have queries or complaints about that picture(Family, friends or anybody) feel free to contact me via any mentioned social accounts.
+  
+Made with ♥️ by an 🇮🇳
+</b></p>
 
