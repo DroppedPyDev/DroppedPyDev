@@ -15,6 +15,7 @@
 
 <h1> Notification's 🔔 </h1>
  <b> • Started Learning Python Full Stack in SMEC Labs Kaloor, Kochi, Kerala 🧃 | 24/06/2024 📆 </b>
+ <b> ~ Completed Full Stack on January 2025 </b>
 
 <h2 align="center">Social Connect</h2>
 
@@ -50,19 +51,19 @@
 
 <h4 align="center">Profile Visitor's :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Abhijith-Sudhakaran}/count.svg" alt="Abhijith-Sudhakaran :: Profile Visitor's" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DroppedPyDev}/count.svg" alt="DroppedPyDev :: Profile Visitor's" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-Sudhakaran&langs_count=10&theme=tokyonight&layout=compact" alt="Abhijith-Sudhakaran :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroppedPyDev&langs_count=10&theme=tokyonight&layout=compact" alt="DroppedPyDev :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijith-Sudhakaran&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DroppedPyDev&show_icons=true&theme=dark)
 
 <p><b>
   ⚠️ The Profile Picture used by me is from Pexel.com. it's a non copyrighted picture. if anybody have queries or complaints about that picture(Family, friends or anybody) feel free to contact me via any mentioned social accounts.
   
-Made with ♥️ by an 🇮🇳
+Made with ♥️ 
 </b></p>
 
